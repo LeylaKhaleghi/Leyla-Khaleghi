@@ -1,6 +1,6 @@
 ## Leyla Khaleghi CV
 
-_AI Engineer based in Ottawa, Canada <br>
+_AI scientist based in Ottawa, Canada <br>
 
 [Email](mailto:hello@workwithcarolyn.com)  / [LinkedIn](https://www.linkedin.com/in/leyla-khaleghi-01050614a/) / [GitHub](https://github.com/LeylaKhaleghi) / 
 
