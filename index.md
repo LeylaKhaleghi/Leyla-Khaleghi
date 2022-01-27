@@ -30,3 +30,18 @@ Download MuViHand datset [here](https://doi.org/10.5683/SP3/ZHCCZB).
 
 
 <br><br>
+
+## 💬 Languages
+
+**English**: Advance <br>
+**Persian**: Native
+<br><br>
+
+## 👩🏼‍🎓 Education
+
+**Master of Science** in Artifiacial and Intelligences<br>
+[Beloit College](https://www.beloit.edu/) - Kingston, Ontarion, Canada _(2020 - 2022)_
+
+**Bachelor of Engineering** Bioelectrical<br>
+[Beloit College](https://www.beloit.edu/) - Tehran, Iran _(2014 - 2018)_
+
