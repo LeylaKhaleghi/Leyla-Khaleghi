@@ -4,7 +4,7 @@ _AI scientist based in Ottawa, Canada <br>
 
 [Email](mailto:hello@workwithcarolyn.com)  / [LinkedIn](https://www.linkedin.com/in/leyla-khaleghi-01050614a/) / [GitHub](https://github.com/LeylaKhaleghi) / 
 
-## 🏼🔨 Technical Skills
+##🔨 Technical Skills
 - Python a🔨d Matlab
 - Deep learning: Pytorch, Open Cv, Keras
 - Machine learning: Scikit-Learn
@@ -14,7 +14,7 @@ _AI scientist based in Ottawa, Canada <br>
 - 3D computer graphics (Blender)
 - Linux-Windows
 
-## 🏼‍💻 Technical Experience
+##💻 Technical Experience
 ♦️
 **Research Assistant** @ [Ingenuity Labs Research Institute](https://ingenuitylabs.queensu.ca/) _(Jan 2020 - Present)_ <br>
 <br>
@@ -48,6 +48,18 @@ Download MuViHand datset [here](https://doi.org/10.5683/SP3/ZHCCZB).
 <b>Tutor</b>@ Danesh shafie highschool _(Jan 2017 - Dec 2019)_ <br>
  - Helping students for preparing for the national entrance exam of Iran 
  - Courses: Algebra and Geometry
+<br><br>
+## ♦️ Volunteer Experience
+
+<b>Event Organizer</b>@ [Ingenuity Labs Research Institute](https://ingenuitylabs.queensu.ca/symposium2021/) _(May 2021 - Oct 2021)_ <br>
+- Helping in organizing the first Robotics and AI Symposium
+
+
+ <br>
+ <b>Technical committee</b>@ [Fira 2016](\href{http://autcup.aut.ac.ir/2016/visitorpages/default.aspx?itemid=3) _(Sep 2016  - Dec 2016)_ <br>
+-  Helping students to learn and being prepared for robotic competition
+
+ 
 <br><br>
 
 ## 📌 On The Side
