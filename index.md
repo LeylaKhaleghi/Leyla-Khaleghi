@@ -4,6 +4,16 @@ _AI scientist based in Ottawa, Canada <br>
 
 [Email](mailto:hello@workwithcarolyn.com)  / [LinkedIn](https://www.linkedin.com/in/leyla-khaleghi-01050614a/) / [GitHub](https://github.com/LeylaKhaleghi) / 
 
+## 👩🏼‍💻 Technical Skills
+- Python and Matlab
+- Deep learning: Pytorch, Open Cv, Keras
+- Machine learning: Scikit-Learn
+- Data analysis; Panda, Numpy, Scipy
+- C, Java, HTML, CSS, SQL
+- Robot operating system (ROS)
+- 3D computer graphics (Blender)
+- Linux-Windows
+
 ## 👩🏼‍💻 Technical Experience
 
 **Research Assistant** @ [Ingenuity Labs Research Institute](https://ingenuitylabs.queensu.ca/) _(Jan 2020 - Present)_ <br>
