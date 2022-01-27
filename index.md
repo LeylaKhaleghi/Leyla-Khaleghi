@@ -42,5 +42,5 @@ Download MuViHand datset [here](https://doi.org/10.5683/SP3/ZHCCZB).
 [Queen's University](https://www.ece.queensu.ca/) - Kingston, Ontarion, Canada _(2020 - 2022)_
 
 **Bachelor of Engineering** in Bioelectrical<br>
-[Amir Kabir University of Technology](https://aut.ac.ir/en) - Tehran, Iran _(2014 - 2018)_
+[Amirkabir University of Technology](https://aut.ac.ir/en) - Tehran, Iran _(2014 - 2018)_
 
