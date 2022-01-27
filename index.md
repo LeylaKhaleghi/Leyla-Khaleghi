@@ -8,13 +8,15 @@ _AI Engineer based in Ottawa, Canada <br>
 ## 👩🏼‍💻 Technical Experience
 
 **Research Assistant** @ [Ingenuity Labs Research Institute](https://ingenuitylabs.queensu.ca/) _(Jan 2020 - Present)_ <br>
-MuViHand: Multi-view Video-based 3D Hand Pose Estimation: 
+<b>MuViHand: Multi-view Video-based 3D Hand Pose Estimation: </b>
 - Estimating 3D hand pose estimation from multi-view videos with a deep network consisting of RNN layers and GCN layers.
-- Please see this [paper](https://arxiv.org/abs/2109.11747) for more details.
+Please see this [paper](https://arxiv.org/abs/2109.11747) for more details.
 - Generating synthetic hand pose dataset includes more than 402,000 hand images.
-- Download MuViHand datset [here](https://doi.org/10.5683/SP3/ZHCCZB);
+Download MuViHand datset [here](https://doi.org/10.5683/SP3/ZHCCZB);
+<br>
  Tools: Python, Pytorch, Open Cv, [Blender](https://www.blender.org/) , Matlab
- 
+ <br><br>
+
  Sequential 3D hand pose estimation with Transformer:
 - Implementing vision transformers in 3D hand pose estimation
  Tools: Python, Pytorch, Open Cv
