@@ -1,4 +1,3 @@
-# Leyla-Khaleghi
 ## Leyla Khaleghi CV
 
 _AI scientist based in Ottawa, Canada <br>
