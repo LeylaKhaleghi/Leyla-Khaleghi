@@ -36,7 +36,7 @@ Download MuViHand datset [here](https://doi.org/10.5683/SP3/ZHCCZB).
  <br>
  
 <b>Tutor</b>@ Danesh shafie highschool _(Jan 2017 - Dec 2019)_ <br>
- - Helping students in Algebra and Geometry for preparing for the national entrance exam of Iran 
+ - Helping students for preparing for the national entrance exam of Iran 
  - Courses: Algebra and Geometry
 <br><br>
 
