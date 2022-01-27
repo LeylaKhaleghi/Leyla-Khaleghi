@@ -40,8 +40,8 @@ Download MuViHand datset [here](https://doi.org/10.5683/SP3/ZHCCZB).
 ## 👩🏼‍🎓 Education
 
 **Master of Science** in Artifiacial and Intelligences<br>
-[Beloit College](https://www.beloit.edu/) - Kingston, Ontarion, Canada _(2020 - 2022)_
+[Beloit College](https://www.ece.queensu.ca/) - Kingston, Ontarion, Canada _(2020 - 2022)_
 
 **Bachelor of Engineering** Bioelectrical<br>
-[Beloit College](https://www.beloit.edu/) - Tehran, Iran _(2014 - 2018)_
+[Beloit College](https://aut.ac.ir/en) - Tehran, Iran _(2014 - 2018)_
 
