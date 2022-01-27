@@ -40,6 +40,10 @@ Download MuViHand datset [here](https://doi.org/10.5683/SP3/ZHCCZB).
  - Courses: Algebra and Geometry
 <br><br>
 
+## 📌 On The Side
+<b>Store Associate</b>@[Loblaw Companies Limited](https://www.loblaw.ca/)_(Oct 2020 - Dec 2021)_ <br>
+- Helping customers by giving information about products and services, taking orders, and process returns
+
 ## 💬 Languages
 
 **English**: Advance <br>
