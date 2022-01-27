@@ -23,6 +23,7 @@ Download MuViHand datset [here](https://doi.org/10.5683/SP3/ZHCCZB).
 - Implementing vision transformers in 3D hand pose estimation
 - Tools: Python, Pytorch, Open Cv
  <br>
+ 
  <b>Towards Touchless Control of Heavy Equipment with Low-Cost Hand Gesture Recognition</b>
 - Controlling a loader with a non-wearable hand gesture recognition through Robot Operation System (ROS)
 - Tools: Pytorch, Open Cv, Ros
