@@ -27,7 +27,9 @@ Download MuViHand datset [here](https://doi.org/10.5683/SP3/ZHCCZB).
 - Controlling a loader with a non-wearable hand gesture recognition through Robot Operation System (ROS)
 - Tools: Pytorch, Open Cv, Ros.
 
+## 👩🏼‍💻 Teaching Experience
 
+**Teaching Assistant** @ [Queen's University](https://www.ece.queensu.ca/) _(Jan 2021 - Dec 2021)_ <br>
 <br><br>
 
 ## 💬 Languages
