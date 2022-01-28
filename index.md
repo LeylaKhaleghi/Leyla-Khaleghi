@@ -14,7 +14,7 @@ AI scientist based in Canada <br>
 - Robot operating system (ROS)
 - Linux-Windows
 <p align="center">
-  <img src="Leyla-Khaleghi/dataset_8.pdf" alt="IMG" />
+  <img src="Leyla-Khaleghi/dataset_8.pdf"/>
 </p>
 ## 💻 Technical Experience
 
