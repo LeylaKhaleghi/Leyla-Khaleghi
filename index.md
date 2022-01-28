@@ -14,7 +14,7 @@ AI scientist based in Canada <br>
 - Robot operating system (ROS)
 - Linux-Windows
 <p align="center">
-  <img src="datase_8.pdf" alt="animated" />
+  <img src="datase_8.pdf" alt="IMG" />
 </p>
 ## 💻 Technical Experience
 
