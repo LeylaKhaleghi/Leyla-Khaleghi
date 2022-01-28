@@ -16,7 +16,9 @@
 ## 💻 Technical Experience
 
 **Research Assistant** @ [Ingenuity Labs Research Institute](https://ingenuitylabs.queensu.ca/) _(Jan 2020 - Present)_ <br>
+
 <img src="dataset_8.pdf" alt="Image description" width=85% height=95%>
+
 <b>[MuViHand: Multi-view Video-based 3D Hand Pose Estimation]( https://www.aiimlab.com/resources)</b>
 - Estimating 3D hand pose from multi-view videos with a deep network consisting of RNN layers and GCN layers.
 Please see this [paper](https://arxiv.org/abs/2109.11747) for more details.
