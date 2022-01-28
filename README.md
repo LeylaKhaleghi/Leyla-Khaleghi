@@ -10,8 +10,8 @@ AI scientist based in Canada <br>
 - Machine learning: Scikit-Learn
 - Data analysis; Panda, Numpy, Scipy
 - C, Java, HTML, CSS, SQL
-- Robot operating system (ROS)
 - 3D computer graphics (Blender), Open Cv
+- Robot operating system (ROS)
 - Linux-Windows
 
 ## 💻 Technical Experience
