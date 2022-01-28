@@ -6,18 +6,17 @@ AI scientist based in Canada <br>
 
 ## 🔨 Technical Skills
 - Python and Matlab
-- Deep learning: Pytorch, Open Cv, Keras
+- Deep learning: Pytorch, Keras
 - Machine learning: Scikit-Learn
 - Data analysis; Panda, Numpy, Scipy
 - C, Java, HTML, CSS, SQL
 - Robot operating system (ROS)
-- 3D computer graphics (Blender)
+- 3D computer graphics (Blender), Open Cv
 - Linux-Windows
 
 ## 💻 Technical Experience
 
 **Research Assistant** @ [Ingenuity Labs Research Institute](https://ingenuitylabs.queensu.ca/) _(Jan 2020 - Present)_ <br>
-<br>
 <br>
 <b>[MuViHand: Multi-view Video-based 3D Hand Pose Estimation]( https://www.aiimlab.com/resources)</b>
 - Estimating 3D hand pose estimation from multi-view videos with a deep network consisting of RNN layers and GCN layers.
@@ -36,7 +35,8 @@ Download MuViHand datset [here](https://doi.org/10.5683/SP3/ZHCCZB).
  <b>Towards Touchless Control of Heavy Equipment with Low-Cost Hand Gesture Recognition</b>
 - Controlling a loader with a non-wearable hand gesture recognition through Robot Operation System (ROS)
 - Tools: Pytorch, Open Cv, Ros. 
-
+<br>
+<br>
 ## 📎 Teaching Experience
 
 <b>Teaching Assistant</b>@ [Queen's University](https://www.ece.queensu.ca/) _(Jan 2021 - Dec 2021)_ <br>
@@ -66,6 +66,7 @@ Download MuViHand datset [here](https://doi.org/10.5683/SP3/ZHCCZB).
 <b>Store Associate</b>@[Loblaw Companies Limited](https://www.loblaw.ca/)_(Oct 2020 - Dec 2021)_ <br>
 - Helping customers by giving information about products and services, taking orders, and process returns
 
+<br><br>
 ## 💬 Languages
 
 **English**: Advance <br>
