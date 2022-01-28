@@ -35,9 +35,9 @@ Download MuViHand datset [here](https://doi.org/10.5683/SP3/ZHCCZB).
  <b>Towards Touchless Control of Heavy Equipment with Low-Cost Hand Gesture Recognition</b>
 - Controlling a loader with a non-wearable hand gesture recognition through Robot Operation System (ROS)
 - Tools: Pytorch, Open Cv, Ros. 
-<br>
-<br>
-## 📎 Teaching Experience
+<br><br>
+
+## 📎Teaching Experience
 
 <b>Teaching Assistant</b>@ [Queen's University](https://www.ece.queensu.ca/) _(Jan 2021 - Dec 2021)_ <br>
 - Helping the professor and the students with labs and exams
