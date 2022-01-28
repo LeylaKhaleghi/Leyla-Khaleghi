@@ -13,7 +13,7 @@ AI scientist based in Canada <br>
 - 3D computer graphics (Blender), Open Cv
 - Robot operating system (ROS)
 - Linux-Windows
-<img src="dataset_8.pdf" alt="Image description">
+
 ## 💻 Technical Experience
 
 **Research Assistant** @ [Ingenuity Labs Research Institute](https://ingenuitylabs.queensu.ca/) _(Jan 2020 - Present)_ <br>
