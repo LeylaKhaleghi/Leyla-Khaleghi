@@ -1,4 +1,4 @@
-## Leyla Khaleghi CV
+## Leyla Khaleghi
 
 AI scientist based in Canada <br>
 
@@ -17,7 +17,7 @@ AI scientist based in Canada <br>
 ## 💻 Technical Experience
 
 **Research Assistant** @ [Ingenuity Labs Research Institute](https://ingenuitylabs.queensu.ca/) _(Jan 2020 - Present)_ <br>
-<br>
+
 <b>[MuViHand: Multi-view Video-based 3D Hand Pose Estimation]( https://www.aiimlab.com/resources)</b>
 - Estimating 3D hand pose estimation from multi-view videos with a deep network consisting of RNN layers and GCN layers.
 Please see this [paper](https://arxiv.org/abs/2109.11747) for more details.
@@ -49,6 +49,7 @@ Download MuViHand datset [here](https://doi.org/10.5683/SP3/ZHCCZB).
  - Helping students for preparing for the national entrance exam of Iran 
  - Courses: Algebra and Geometry
 <br><br>
+
 ## ♦️ Volunteer Experience
 
 <b>Event Organizer</b>@ [Ingenuity Labs Research Institute](https://ingenuitylabs.queensu.ca/symposium2021/) _(May 2021 - Oct 2021)_ <br>
@@ -63,10 +64,12 @@ Download MuViHand datset [here](https://doi.org/10.5683/SP3/ZHCCZB).
 <br><br>
 
 ## 📌 On The Side
+
 <b>Store Associate</b>@[Loblaw Companies Limited](https://www.loblaw.ca/)_(Oct 2020 - Dec 2021)_ <br>
 - Helping customers by giving information about products and services, taking orders, and process returns
 
 <br><br>
+
 ## 💬 Languages
 
 **English**: Advance <br>
