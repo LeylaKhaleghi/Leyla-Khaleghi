@@ -1,6 +1,5 @@
 ## Leyla Khaleghi
 
-AI scientist based in Canada <br>
 
 [Email](mailto:hello@workwithcarolyn.com)  / [LinkedIn](https://www.linkedin.com/in/leyla-khaleghi-01050614a/) / [GitHub](https://github.com/LeylaKhaleghi) / 
 
