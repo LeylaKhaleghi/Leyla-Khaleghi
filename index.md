@@ -47,7 +47,9 @@ Please see this [paper](https://arxiv.org/abs/2109.11747) for more details.
 - Tools: Pytorch, Open Cv, Ros. 
 <br><br>
 
+
 **Research Assistant** @ [Dynamics of Complex Systems and Networks Laboratory](https://aut.ac.ir/printme.php?item=2.2495.3891.en) _(July 2017 - Sep 2019)_ <br>
+ <b>Chimera states in a ring of map-based neurons</b>
 - Working on Coexistence of synchronous and asynchronous behaviours on a discrete systems. Please see this [paper](https://www.sciencedirect.com/science/article/abs/pii/S0378437119314840) for more details.
 - Tools: Matlab.
 <br><br>
