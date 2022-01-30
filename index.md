@@ -27,7 +27,7 @@ Download MuViHand datset [here](https://doi.org/10.5683/SP3/ZHCCZB).
 Please see this [paper](https://arxiv.org/abs/2109.11747) for more details.
 
 <p align="center">
-  <img src="main_model.pdf" alt="animated" />
+  <img src="main_model.pdf" alt="Model Image" />
 </p>
 
 - Tools: Python, Pytorch, Open Cv, [Blender](https://www.blender.org/), Matlab.
