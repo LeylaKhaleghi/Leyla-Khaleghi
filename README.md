@@ -36,7 +36,11 @@ Download MuViHand datset [here](https://doi.org/10.5683/SP3/ZHCCZB).
 - Controlling a loader with a non-wearable hand gesture recognition through Robot Operation System (ROS)
 - Tools: Pytorch, Open Cv, Ros. 
 <br><br>
+**Research Assistant** @ [Dynamics of Complex Systems and Networks Laboratories](https://aut.ac.ir/printme.php?item=2.2495.3891.en) _(July 2017 - Sep 2019)_ <br>
+- Working on Coexistence of synchronous and asynchronous behaviours on a discrete systems. Please see this [paper](https://www.sciencedirect.com/science/article/abs/pii/S0378437119314840) for more details.44
+- Tools: Matlab.
 
+<br><br>
 ## 📎Teaching Experience
 
 <b>Teaching Assistant</b>@ [Queen's University](https://www.ece.queensu.ca/) _(Jan 2021 - Dec 2021)_ <br>
