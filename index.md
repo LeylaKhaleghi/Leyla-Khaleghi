@@ -72,7 +72,7 @@ Please see this [paper](https://arxiv.org/abs/2109.11747) for more details.
 ## 📌 On The Side
 
 <b>Store Associate</b>@[Loblaw Companies Limited](https://www.loblaw.ca/)_(Oct 2020 - Dec 2021)_ <br>
-- Helping customers by giving information about products and services, taking orders, and process returns
+- Helping customers by giving information about products and services, taking orders, and processing returns
 
 <br><br>
 
@@ -84,8 +84,8 @@ Please see this [paper](https://arxiv.org/abs/2109.11747) for more details.
 
 ## 🎓 Education
 
-**Master of Science** in Artifiacial and Intelligences<br>
-[Queen's University](https://www.ece.queensu.ca/) - Kingston, Ontarion, Canada _(2020 - 2022)_
+**Master of Applied Science** in Artificial and Intelligences<br>
+[Queen's University](https://www.ece.queensu.ca/) - Kingston, Ontario, Canada _(2020 - 2022)_
 
 **Bachelor of Engineering** in Bioelectrical<br>
 [Amirkabir University of Technology](https://aut.ac.ir/en) - Tehran, Iran _(2014 - 2018)_
