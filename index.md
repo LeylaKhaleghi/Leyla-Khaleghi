@@ -41,6 +41,9 @@ Please see this [paper](https://arxiv.org/abs/2109.11747) for more details.
 <br><br>
  <b>Towards Touchless Control of Heavy Equipment with Low-Cost Hand Gesture Recognition</b>
 - Controlling a loader with a non-wearable hand gesture recognition through Robot Operation System (ROS)
+<p align="center">
+  <img src="loader.jpg" alt="Model Image" />
+</p>
 - Tools: Pytorch, Open Cv, Ros. 
 <br><br>
 
