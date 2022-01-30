@@ -50,7 +50,7 @@ Please see this [paper](https://arxiv.org/abs/2109.11747) for more details.
 
 **Research Assistant** @ [Dynamics of Complex Systems and Networks Laboratory](https://aut.ac.ir/printme.php?item=2.2495.3891.en) _(July 2017 - Sep 2019)_ <br><br>
  <b>Chimera states in a ring of map-based neurons</b>
-- Working on Coexistence of synchronous and asynchronous behaviours on a discrete systems. Please see this [paper](https://www.sciencedirect.com/science/article/abs/pii/S0378437119314840) for more details.
+- Working on coexistence of synchronous and asynchronous behaviours on a discrete systems. Please see this [paper](https://www.sciencedirect.com/science/article/abs/pii/S0378437119314840) for more details.
 - Tools: Matlab.
 <br><br>
 
@@ -60,8 +60,6 @@ Please see this [paper](https://arxiv.org/abs/2109.11747) for more details.
 - Helping the professor and the students with labs and exams
 - Courses: Electronics I and Digital Systems
 
- <br>
- 
 <b>Tutor</b>@ Danesh shafie highschool _(Jan 2017 - Dec 2019)_ <br>
  - Helping students for preparing for the national entrance exam of Iran 
  - Courses: Algebra and Geometry
