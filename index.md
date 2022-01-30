@@ -32,7 +32,9 @@ Please see this [paper](https://arxiv.org/abs/2109.11747) for more details.
 
 - Tools: Python, Pytorch, Open Cv, [Blender](https://www.blender.org/), Matlab.
 <br>
-
+<p align="center">
+  <img src="Transformer-model.jpg" alt="Transformer Image" />
+</p>
  <b>Learning Sequential Contexts using Transformer for 3D Hand Pose Estimation</b>
 - Implementing vision transformers in 3D hand pose estimation
 - Tools: Python, Pytorch, Open Cv.
