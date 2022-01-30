@@ -31,15 +31,14 @@ Please see this [paper](https://arxiv.org/abs/2109.11747) for more details.
 </p>
 
 - Tools: Python, Pytorch, Open Cv, [Blender](https://www.blender.org/), Matlab.
-<br>
+<br><br>
  <b>Learning Sequential Contexts using Transformer for 3D Hand Pose Estimation</b>
 - Implementing vision transformers in 3D hand pose estimation
-- <p align="center">
-  <img src="Transformer-model.jpg" alt="Transformer Image" />
+<p align="center">
+  <img src="Transformer-model.jpg" alt="Model Image" />
 </p>
 - Tools: Python, Pytorch, Open Cv.
- <br>
- 
+<br><br>
  <b>Towards Touchless Control of Heavy Equipment with Low-Cost Hand Gesture Recognition</b>
 - Controlling a loader with a non-wearable hand gesture recognition through Robot Operation System (ROS)
 - Tools: Pytorch, Open Cv, Ros. 
