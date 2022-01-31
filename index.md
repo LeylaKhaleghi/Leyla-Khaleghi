@@ -44,7 +44,7 @@ Please see this [paper](https://arxiv.org/abs/2109.11747) for more details.
 <p align="center">
   <img src="loader.jpg" alt="Model Image" />
 </p>
-- Tools: Pytorch, Open Cv, Ros. 
+- Tools: Pytorch,Scikit-Learn, Open Cv, Ros. 
 <br><br>
 
 
