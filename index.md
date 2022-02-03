@@ -15,7 +15,18 @@
 
 ## 💻 Technical Experience
 
+https://www.youtube.com/watch?v=Q5ElpgUa41Y
+
 **Research Assistant** @ [Ingenuity Labs Research Institute](https://ingenuitylabs.queensu.ca/) _(Jan 2020 - Present)_ <br><br>
+ <b>Towards Touchless Control of Heavy Equipment with Low-Cost Hand Gesture Recognition</b>
+- Controlling a loader with a non-wearable hand gesture recognition through Robot Operation System (ROS)
+-  A video clip of the system in action can be seen [here](https://www.youtube.com/watch?v=Q5ElpgUa41Y)
+<p align="center">
+  <img src="loader.jpg" alt="Model Image" />
+</p>
+- Tools: Pytorch,Scikit-Learn, Open Cv, Ros. 
+<br><br>
+
 <b>MuViHand: Multi-view Video-based 3D Hand Pose Estimation</b>
 - Generating synthetic hand pose dataset includes more than 402,000 hand images.
 Download MuViHand datset [here](https://doi.org/10.5683/SP3/ZHCCZB).
@@ -39,13 +50,7 @@ Please see this [paper](https://arxiv.org/abs/2109.11747) for more details.
 </p>
 - Tools: Python, Pytorch, Open Cv.
 <br><br>
- <b>Towards Touchless Control of Heavy Equipment with Low-Cost Hand Gesture Recognition</b>
-- Controlling a loader with a non-wearable hand gesture recognition through Robot Operation System (ROS)
-<p align="center">
-  <img src="loader.jpg" alt="Model Image" />
-</p>
-- Tools: Pytorch,Scikit-Learn, Open Cv, Ros. 
-<br><br>
+
 
 
 **Research Assistant** @ [Dynamics of Complex Systems and Networks Laboratory](https://aut.ac.ir/printme.php?item=2.2495.3891.en) _(July 2017 - Sep 2019)_ <br><br>
