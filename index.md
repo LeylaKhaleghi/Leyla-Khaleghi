@@ -15,8 +15,6 @@
 
 ## 💻 Technical Experience
 
-https://www.youtube.com/watch?v=Q5ElpgUa41Y
-
 **Research Assistant** @ [Ingenuity Labs Research Institute](https://ingenuitylabs.queensu.ca/) _(Jan 2020 - Present)_ <br><br>
  <b>Towards Touchless Control of Heavy Equipment with Low-Cost Hand Gesture Recognition</b>
 - Controlling a loader with a non-wearable hand gesture recognition through Robot Operation System (ROS)
