@@ -49,12 +49,20 @@ Please see this [paper](https://arxiv.org/abs/2109.11747) for more details.
 - Tools: Python, Pytorch, Open Cv.
 <br><br>
 
+**Back-End Developer-Intern** @ [Authin](https://authin.ir/) _(June 2019 - Sep 2019)_ <br>
+- Become knowledgeable about Autin products by reading the documentation and code.
+- Develop different modules to improve the security of the application
+- Tools: Java, Git, Postman.
+<br><br>
 
-
-**Research Assistant** @ [Dynamics of Complex Systems and Networks Laboratory](https://aut.ac.ir/printme.php?item=2.2495.3891.en) _(July 2017 - Sep 2019)_ <br><br>
- <b>Chimera states in a ring of map-based neurons</b>
-- Working on coexistence of synchronous and asynchronous behaviours on a discrete systems. Please see this [paper](https://www.sciencedirect.com/science/article/abs/pii/S0378437119314840) for more details.
+**Research Assistant** @ [Dynamics of Complex Systems and Networks Laboratory](https://aut.ac.ir/printme.php?item=2.2495.3891.en) _(July 2017 - Sep 2019)_ <br>
+- Working on Coexistence of synchronous and asynchronous behaviours on a discrete systems. Please see this [paper](https://www.sciencedirect.com/science/article/abs/pii/S0378437119314840) for more details.
 - Tools: Matlab.
+<br><br>
+
+**Research Assistant** @ [Bio-Inspired System Design Lab](http://autman.aut.ac.ir/#) _(Sep 2016 - Feb 2016)_ <br>
+- Working on different robotic and control projects Please see this [page](http://autcup.aut.ac.ir/2016/visitorpages/default.aspx?itemid=3) for more details.
+- Tools: NAO robot,  Arduino.
 <br><br>
 
 ## 📎Teaching Experience
