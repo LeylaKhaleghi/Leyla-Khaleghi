@@ -48,8 +48,9 @@ Please see this [paper](https://arxiv.org/abs/2109.11747) for more details.
 <br><br>
 
 **Back-End Developer-Intern** @ [Authin](https://authin.ir/) _(June 2019 - Sep 2019)_ <br>
-- Working on Coexistence of synchronous and asynchronous behaviours on a discrete systems. Please see this [paper](https://www.sciencedirect.com/science/article/abs/pii/S0378437119314840) for more details.
-- Tools: Matlab.
+- Become knowledgeable about Autin products by reading the documentation and code.
+- Develop different modules to improve the security of the application
+- Tools: Java, Git, Postman.
 <br><br>
 
 **Research Assistant** @ [Dynamics of Complex Systems and Networks Laboratory](https://aut.ac.ir/printme.php?item=2.2495.3891.en) _(July 2017 - Sep 2019)_ <br>
