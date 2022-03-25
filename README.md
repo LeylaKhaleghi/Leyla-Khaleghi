@@ -77,7 +77,7 @@ Please see this [paper](https://arxiv.org/abs/2109.11747) for more details.
 
 
  <br>
- <b>Technical committee</b>@ [Fira 2016](http://autcup.aut.ac.ir/2016/visitorpages/default.aspx?itemid=3/) _(Sep 2016  - Dec 2016)_ <br>
+ <b>Technical committee</b>@ [Fira 2016](http://autcup.aut.ac.ir/2016/visitorpages/default.aspx?itemid=3) _(Sep 2016  - Dec 2016)_ <br>
 -  Helping students to learn and being prepared for robotic competition
 
  
