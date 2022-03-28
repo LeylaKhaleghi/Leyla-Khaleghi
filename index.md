@@ -60,7 +60,7 @@ Please see this [paper](https://arxiv.org/abs/2109.11747) for more details.
 - Tools: Matlab.
 <br><br>
 
-**Research Assistant** @ [Bio-Inspired System Design Lab](http://autman.aut.ac.ir/#) _(Sep 2016 - Feb 2016)_ <br>
+**Research Assistant** @ [Bio-Inspired System Design Lab](http://autman.aut.ac.ir/#) _(Sep 2016 - Feb 2017)_ <br>
 - Working on different robotic and control projects Please see this [page](http://autcup.aut.ac.ir/2016/visitorpages/default.aspx?itemid=3) for more details.
 - Tools: NAO robot,  Arduino.
 <br><br>
