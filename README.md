@@ -15,8 +15,17 @@
 
 ## 💻 Technical Experience
 
-**Research Assistant** @ [Ingenuity Labs Research Institute](https://ingenuitylabs.queensu.ca/) _(Jan 2020 - Present)_ <br>
-<b>[MuViHand: Multi-view Video-based 3D Hand Pose Estimation]( https://www.aiimlab.com/resources)</b>
+**Research Assistant** @ [Ingenuity Labs Research Institute](https://ingenuitylabs.queensu.ca/) _(Jan 2020 - Present)_ <br><br>
+ <b>Towards Touchless Control of Heavy Equipment with Low-Cost Hand Gesture Recognition</b>
+- Controlling a loader with a non-wearable hand gesture recognition through Robot Operation System (ROS)
+-  A video clip of the system in action can be seen [here](https://www.youtube.com/watch?v=Q5ElpgUa41Y)
+<p align="center">
+  <img src="loader.jpg" alt="Model Image" />
+</p>
+- Tools: Pytorch,Scikit-Learn, Open Cv, Ros. 
+<br><br>
+
+<b>MuViHand: Multi-view Video-based 3D Hand Pose Estimation</b>
 - Generating synthetic hand pose dataset includes more than 402,000 hand images.
 Download MuViHand datset [here](https://doi.org/10.5683/SP3/ZHCCZB).
 <p align="center">
@@ -39,18 +48,11 @@ Please see this [paper](https://arxiv.org/abs/2109.11747) for more details.
 </p>
 - Tools: Python, Pytorch, Open Cv.
 <br><br>
- <b>Towards Touchless Control of Heavy Equipment with Low-Cost Hand Gesture Recognition</b>
-- Controlling a loader with a non-wearable hand gesture recognition through Robot Operation System (ROS)
-<p align="center">
-  <img src="loader.jpg" alt="Model Image" />
-</p>
-- Tools: Pytorch, Open Cv, Ros. 
-<br><br>
 
 **Back-End Developer-Intern** @ [Authin](https://authin.ir/) _(June 2019 - Sep 2019)_ <br>
 - Become knowledgeable about Autin products by reading the documentation and code.
 - Develop different modules to improve the security of the application
-- Tools: Java, Git, Postman.
+- Tools: Java, Git.
 <br><br>
 
 **Research Assistant** @ [Dynamics of Complex Systems and Networks Laboratory](https://aut.ac.ir/printme.php?item=2.2495.3891.en) _(July 2017 - Sep 2019)_ <br>
@@ -58,10 +60,6 @@ Please see this [paper](https://arxiv.org/abs/2109.11747) for more details.
 - Tools: Matlab.
 <br><br>
 
-**Research Assistant** @ [Bio-Inspired System Design Lab](http://autman.aut.ac.ir/#) _(Sep 2016 - Feb 2016)_ <br>
-- Working on different robotic and control projects Please see this [page](http://autcup.aut.ac.ir/2016/visitorpages/default.aspx?itemid=3) for more details.
-- Tools: NAO robot,  Arduino.
-<br><br>
 
 ## 📎Teaching Experience
 
@@ -69,8 +67,6 @@ Please see this [paper](https://arxiv.org/abs/2109.11747) for more details.
 - Helping the professor and the students with labs and exams
 - Courses: Electronics I and Digital Systems
 
- <br>
- 
 <b>Tutor</b>@ Danesh shafie highschool _(Jan 2017 - Dec 2019)_ <br>
  - Helping students for preparing for the national entrance exam of Iran 
  - Courses: Algebra and Geometry
@@ -83,7 +79,7 @@ Please see this [paper](https://arxiv.org/abs/2109.11747) for more details.
 
 
  <br>
- <b>Technical committee</b>@ [Fira 2016](http://autcup.aut.ac.ir/2016/visitorpages/default.aspx?itemid=3) _(Sep 2016  - Dec 2016)_ <br>
+ <b>Technical committee</b>@ [Fira 2016](http://autcup.aut.ac.ir/2016/visitorpages/default.aspx?itemid=3/) _(Sep 2016  - Dec 2016)_ <br>
 -  Helping students to learn and being prepared for robotic competition
 
  
