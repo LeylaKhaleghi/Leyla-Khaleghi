@@ -4,6 +4,14 @@
 [Email](mailto:hello@workwithcarolyn.com)  / [LinkedIn](https://www.linkedin.com/in/leyla-khaleghi-01050614a/) / [GitHub](https://github.com/LeylaKhaleghi) / 
 
 ## 🔨 Technical Skills
+- Proficient in Programming with: Python, MATLAB, and C
+- Experienced with Scientific and Machine Learning Libraries: Open CV, SciPy, NumPy, Sci-kit Learn, NLTK, Pandas, Matplotlib
+- Experienced with Deep Learning Libraries: Pytorch, Keras
+- Familiar in Programming with: HTML, CSS, Java, SQL
+- Familiar with Robot operating system (ROS)
+- Familiar with 3D computer graphics: Blender
+- Familiar in Simulation and Designing Tools: LabVIEW, Proteus, LTspice, Codevision
+
 - Python and Matlab
 - Deep learning: Pytorch, Keras
 - Machine learning: Scikit-Learn
@@ -17,12 +25,12 @@
 
 **Research Assistant** @ [Ingenuity Labs Research Institute](https://ingenuitylabs.queensu.ca/) _(Jan 2020 - Present)_ <br><br>
  <b>Towards Touchless Control of Heavy Equipment with Low-Cost Hand Gesture Recognition</b>
-- Controlling a loader with a non-wearable hand gesture recognition through Robot Operation System (ROS)
--  A video clip of the system in action can be seen [here](https://www.youtube.com/watch?v=Q5ElpgUa41Y)
+- Controlling a loader with a non-wearable hand gesture recognition through Robot Operation System (ROS).
+-  A video clip of the system in action can be seen [here](https://www.youtube.com/watch?v=Q5ElpgUa41Y).
 <p align="center">
   <img src="loader.jpg" alt="Model Image" />
 </p>
-- Tools: Pytorch,Scikit-Learn, Open Cv, Ros. 
+- Tools: Pytorch, Scikit-Learn, Open Cv, Ros. 
 <br><br>
 
 <b>MuViHand: Multi-view Video-based 3D Hand Pose Estimation</b>
@@ -42,7 +50,7 @@ Please see this [paper](https://arxiv.org/abs/2109.11747) for more details.
 - Tools: Python, Pytorch, Open Cv, [Blender](https://www.blender.org/), Matlab.
 <br><br>
  <b>Learning Sequential Contexts using Transformer for 3D Hand Pose Estimation</b>
-- Implementing vision transformers in 3D hand pose estimation
+- Implementing vision transformers in 3D hand pose estimation.
 <p align="center">
   <img src="Transformer-model.jpg" alt="Model Image" />
 </p>
@@ -51,7 +59,7 @@ Please see this [paper](https://arxiv.org/abs/2109.11747) for more details.
 
 **Back-End Developer-Intern** @ [Authin](https://authin.ir/) _(June 2019 - Sep 2019)_ <br>
 - Become knowledgeable about Autin products by reading the documentation and code.
-- Develop different modules to improve the security of the application
+- Develop different modules to improve the security of the application.
 - Tools: Java, Git.
 <br><br>
 
@@ -64,23 +72,23 @@ Please see this [paper](https://arxiv.org/abs/2109.11747) for more details.
 ## 📎Teaching Experience
 
 <b>Teaching Assistant</b>@ [Queen's University](https://www.ece.queensu.ca/) _(Jan 2021 - Dec 2021)_ <br>
-- Helping the professor and the students with labs and exams
-- Courses: Electronics I and Digital Systems
+- Helping the professor and the students with labs and exams.
+- Courses: Electronics I and Digital Systems.
 
 <b>Tutor</b>@ Danesh shafie highschool _(Jan 2017 - Dec 2019)_ <br>
- - Helping students for preparing for the national entrance exam of Iran 
- - Courses: Algebra and Geometry
+ - Helping students for preparing for the national entrance exam of Iran.
+ - Courses: Algebra and Geometry.
 <br><br>
 
 ## ♦️ Volunteer Experience
 
 <b>Event Organizer</b>@ [Ingenuity Labs Research Institute](https://ingenuitylabs.queensu.ca/symposium2021/) _(May 2021 - Oct 2021)_ <br>
-- Helping in organizing the first Robotics and AI Symposium
+- Helping in organizing the first Robotics and AI Symposium.
 
 
  <br>
  <b>Technical committee</b>@ [Fira 2016](http://autcup.aut.ac.ir/2016/visitorpages/default.aspx?itemid=3/) _(Sep 2016  - Dec 2016)_ <br>
--  Helping students to learn and being prepared for robotic competition
+-  Helping students to learn and being prepared for robotic competition.
 
  
 <br><br>
@@ -88,7 +96,7 @@ Please see this [paper](https://arxiv.org/abs/2109.11747) for more details.
 ## 📌 On The Side
 
 <b>Store Associate</b>@[Loblaw Companies Limited](https://www.loblaw.ca/)_(Oct 2020 - Dec 2021)_ <br>
-- Helping customers by giving information about products and services, taking orders, and processing returns
+- Helping customers by giving information about products and services, taking orders, and processing returns.
 
 <br><br>
 
