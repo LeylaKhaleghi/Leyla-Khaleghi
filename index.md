@@ -12,15 +12,6 @@
 - Familiar with 3D computer graphics: Blender
 - Familiar in Simulation and Designing Tools: LabVIEW, Proteus, LTspice, Codevision
 
-- Python and Matlab
-- Deep learning: Pytorch, Keras
-- Machine learning: Scikit-Learn
-- Data analysis; Panda, Numpy, Scipy
-- C, Java, HTML, CSS, SQL
-- 3D computer graphics (Blender), Open Cv
-- Robot operating system (ROS)
-- Linux-Windows
-
 ## 💻 Technical Experience
 
 **Research Assistant** @ [Ingenuity Labs Research Institute](https://ingenuitylabs.queensu.ca/) _(Jan 2020 - Present)_ <br><br>
